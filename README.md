@@ -32,4 +32,6 @@
 
 ```bash
 # 1000回大規模実験を実行（seed固定で完全再現可能）
-python src/yuragi_core_v2.2.py
+python yuragi_core_v2_2.py
+
+
